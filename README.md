@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Chimpro
 - 前端练习生
-- hzau大二在读
