@@ -1,1 +1,1 @@
-Some said I'd never be a super star,but I know I'm different.
+Some said I'd never be a supercoder,but I know I'm different.
