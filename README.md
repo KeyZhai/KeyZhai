@@ -1,4 +1,5 @@
-To do and to be different.
+![Typing SVG](https://readme-typing-svg.demolab.com/"To do and to be different.")
+
 <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyZhai)
 <br/>
