@@ -11,4 +11,15 @@
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 </p>
 
-<hr>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyZhai&langs_count=4&theme=tokyonight" alt="Top Langs" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KeyZhai&theme=tokyonight">
+    </td>
+  </tr>
+</table>
